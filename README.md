@@ -1,7 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-Abbring&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/kevin-Abbring/kevin-Abbring/assets/github-contribution-grid-snake.svg" /></div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kevin-Abbring&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/kevin-Abbring/kevin-Abbring/assets/github-contribution-grid-snake.svg" /></div>
 <!--
 **kevin-Abbring/kevin-Abbring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
