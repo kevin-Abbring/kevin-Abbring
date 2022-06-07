@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-Abbring&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](https://raw.githubusercontent.com/kevin-Abbring/kevin-Abbring/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/kevin-Abbring/kevin-Abbring/assets/github-contribution-grid-snake.svg" /></div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=kevin-Abbring&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
